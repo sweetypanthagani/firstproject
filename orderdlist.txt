@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ordered lists </title>
+</head>
+<body>
+<list>
+<font face="impact" size="6" color="yellow">
+<ol>
+<li>sneha</li>
+<li>latha</li>
+<li>garaka</li>
+<li type="circle">devi</li>
+<li>sudha</li>
+<li>venkat</li>
+</font>
+</ol>
+</list>
+</body>
+</html>
